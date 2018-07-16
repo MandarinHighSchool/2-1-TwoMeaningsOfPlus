@@ -11,7 +11,7 @@ Learning Objective: understand the use of "+" for concatenation and addition.
     d.  explain what your favorite subject is and why you like it. Use the plus sign to write the statement on two lines in the code.<br/>
     e.  use the plus sign to share the course and concatenate a number for the period you have the class.<br/>
     f.  print the following statements: (use \n for a new line)<br/>
-        i.    System.out.println("8 plus 5 is " + 8 + 5);<br/>
-        ii.   System.out.println("8 plus 5 is " + (8 + 5));<br/>
-        iii.  System.out.println(8 + 5 + " equals 8 plus 5.")<br/>
+            i.    System.out.println("8 plus 5 is " + 8 + 5);<br/>
+            ii.   System.out.println("8 plus 5 is " + (8 + 5));<br/>
+            iii.  System.out.println(8 + 5 + " equals 8 plus 5.")<br/>
     g.  explain why each of these prints a different output.<br/>
